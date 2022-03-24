@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>emoji on Yunus Emre Akgül</title>
-    <link>http://example.org/ko/tags/emoji/</link>
+    <link>https://yunusemreeakgul.github.io/ko/tags/emoji/</link>
     <description>Recent content in emoji on Yunus Emre Akgül</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, Yunus Emre Akgül</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/ko/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://yunusemreeakgul.github.io/ko/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Emoji Support</title>
-        <link>http://example.org/ko/en/posts/emoji-support/</link>
+        <link>https://yunusemreeakgul.github.io/ko/en/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>yunusemreeakgul@outlook.com (yunus emre akgül)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>http://example.org/ko/en/posts/emoji-support/</guid>
+        <guid>https://yunusemreeakgul.github.io/ko/en/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>

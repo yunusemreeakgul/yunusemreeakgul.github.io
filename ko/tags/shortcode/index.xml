@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>shortcode on Yunus Emre Akgül</title>
-    <link>http://example.org/ko/tags/shortcode/</link>
+    <link>https://yunusemreeakgul.github.io/ko/tags/shortcode/</link>
     <description>Recent content in shortcode on Yunus Emre Akgül</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -16,22 +16,22 @@
     <copyright>©2022, Yunus Emre Akgül</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/ko/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://yunusemreeakgul.github.io/ko/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Shortcodes</title>
-        <link>http://example.org/ko/en/posts/shortcodes/</link>
+        <link>https://yunusemreeakgul.github.io/ko/en/posts/shortcodes/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>yunusemreeakgul@outlook.com (yunus emre akgül)</author>
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
-        <guid>http://example.org/ko/en/posts/shortcodes/</guid>
+        <guid>https://yunusemreeakgul.github.io/ko/en/posts/shortcodes/</guid>
         <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode  Code tabs Make it easy to switch between different code
 java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  console.log(&amp;#39;Hello World!&amp;#39;);       &#39;use strict&#39;; var containerId = JSON.parse(&#34;\&#34;83eea2d635fb76a8\&#34;&#34;); var containerElem = document.getElementById(containerId); var codetabLinks = null; var codetabContents = null; var ids = []; if (containerElem) { codetabLinks = containerElem.</description>
         
         <dc:creator>yunus emre akgül</dc:creator>
-        <media:content url="http://example.orgimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://yunusemreeakgul.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

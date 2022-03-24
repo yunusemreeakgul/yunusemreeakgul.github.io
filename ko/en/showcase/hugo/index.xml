@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo on Yunus Emre Akgül</title>
-    <link>http://example.org/ko/en/showcase/hugo/</link>
+    <link>https://yunusemreeakgul.github.io/ko/en/showcase/hugo/</link>
     <description>Recent content in Hugo on Yunus Emre Akgül</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, Yunus Emre Akgül</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 21:04:11 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/ko/en/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://yunusemreeakgul.github.io/ko/en/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Hugo Zzo Theme</title>
-        <link>http://example.org/ko/en/showcase/hugo/hugo-theme-zzo/</link>
+        <link>https://yunusemreeakgul.github.io/ko/en/showcase/hugo/hugo-theme-zzo/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>yunusemreeakgul@outlook.com (yunus emre akgül)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>http://example.org/ko/en/showcase/hugo/hugo-theme-zzo/</guid>
+        <guid>https://yunusemreeakgul.github.io/ko/en/showcase/hugo/hugo-theme-zzo/</guid>
         <description></description>
         
         <dc:creator>yunus emre akgül</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Hugo zDoc Theme</title>
-        <link>http://example.org/ko/en/showcase/hugo/hugo-theme-zdoc/</link>
+        <link>https://yunusemreeakgul.github.io/ko/en/showcase/hugo/hugo-theme-zdoc/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>yunusemreeakgul@outlook.com (yunus emre akgül)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>http://example.org/ko/en/showcase/hugo/hugo-theme-zdoc/</guid>
+        <guid>https://yunusemreeakgul.github.io/ko/en/showcase/hugo/hugo-theme-zdoc/</guid>
         <description></description>
         
         <dc:creator>yunus emre akgül</dc:creator>

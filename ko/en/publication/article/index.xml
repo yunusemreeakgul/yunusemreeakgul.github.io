@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>article on Yunus Emre Akgül</title>
-    <link>http://example.org/ko/en/publication/article/</link>
+    <link>https://yunusemreeakgul.github.io/ko/en/publication/article/</link>
     <description>Recent content in article on Yunus Emre Akgül</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, Yunus Emre Akgül</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/ko/en/publication/article/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://yunusemreeakgul.github.io/ko/en/publication/article/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Good Title</title>
-        <link>http://example.org/ko/en/publication/article/article_any_folder_name_1/</link>
+        <link>https://yunusemreeakgul.github.io/ko/en/publication/article/article_any_folder_name_1/</link>
         <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
         <author>yunusemreeakgul@outlook.com (yunus emre akgül)</author>
         <atom:modified>Fri, 01 Jun 2018 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/ko/en/publication/article/article_any_folder_name_1/</guid>
+        <guid>https://yunusemreeakgul.github.io/ko/en/publication/article/article_any_folder_name_1/</guid>
         <description></description>
         
         <dc:creator>yunus emre akgül</dc:creator>
