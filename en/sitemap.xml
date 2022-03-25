@@ -9,7 +9,7 @@
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://yunusemreeakgul.github.io/en/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <lastmod>2022-03-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -19,6 +19,77 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://yunusemreeakgul.github.io/en/"
+                />
+  </url><url>
+    <loc>https://yunusemreeakgul.github.io/en/tags/blog/</loc>
+    <lastmod>2022-03-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://yunusemreeakgul.github.io/ko/tags/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yunusemreeakgul.github.io/en/tags/blog/"
+                />
+  </url><url>
+    <loc>https://yunusemreeakgul.github.io/en/posts/deneme/</loc>
+    <lastmod>2022-03-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://yunusemreeakgul.github.io/en/tags/hugo/</loc>
+    <lastmod>2022-03-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://yunusemreeakgul.github.io/ko/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yunusemreeakgul.github.io/en/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://yunusemreeakgul.github.io/en/tags/internet/</loc>
+    <lastmod>2022-03-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://yunusemreeakgul.github.io/ko/tags/internet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yunusemreeakgul.github.io/en/tags/internet/"
+                />
+  </url><url>
+    <loc>https://yunusemreeakgul.github.io/en/tags/network/</loc>
+    <lastmod>2022-03-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://yunusemreeakgul.github.io/ko/tags/network/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yunusemreeakgul.github.io/en/tags/network/"
+                />
+  </url><url>
+    <loc>https://yunusemreeakgul.github.io/en/posts/</loc>
+    <lastmod>2022-03-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://yunusemreeakgul.github.io/en/tags/</loc>
+    <lastmod>2022-03-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://yunusemreeakgul.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yunusemreeakgul.github.io/en/tags/"
                 />
   </url><url>
     <loc>https://yunusemreeakgul.github.io/en/publication/article/</loc>
@@ -102,8 +173,6 @@
                 href="https://yunusemreeakgul.github.io/en/tags/index/"
                 />
   </url><url>
-    <loc>https://yunusemreeakgul.github.io/en/posts/</loc>
-  </url><url>
     <loc>https://yunusemreeakgul.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -114,18 +183,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://yunusemreeakgul.github.io/en/series/"
-                />
-  </url><url>
-    <loc>https://yunusemreeakgul.github.io/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://yunusemreeakgul.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yunusemreeakgul.github.io/en/tags/"
                 />
   </url>
 </urlset>
