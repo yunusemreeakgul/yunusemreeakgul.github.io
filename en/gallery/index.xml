@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Galleries on Hugo Zzo Theme</title>
+    <title>Galleries on Yunus Emre Akgül</title>
     <link>https://yunusemreeakgul.github.io/en/gallery/</link>
-    <description>Recent content in Galleries on Hugo Zzo Theme</description>
+    <description>Recent content in Galleries on Yunus Emre Akgül</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>yunusemreeakgul@outlook.com (yunus emre akgül)</managingEditor>
-    <webMaster>yunusemreeakgul@outlook.com (yunus emre akgül)</webMaster>
+    <managingEditor>yunusemreeakgul@outlook.com (Yunus Emre Akgül)</managingEditor>
+    <webMaster>yunusemreeakgul@outlook.com (Yunus Emre Akgül)</webMaster>
     <copyright>©2022, Yunus Emre Akgül</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>Cartoon</title>
         <link>https://yunusemreeakgul.github.io/en/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>yunusemreeakgul@outlook.com (yunus emre akgül)</author>
+        <author>yunusemreeakgul@outlook.com (Yunus Emre Akgül)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>https://yunusemreeakgul.github.io/en/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>yunus emre akgül</dc:creator>
+        <dc:creator>Yunus Emre Akgül</dc:creator>
         <media:content url="https://yunusemreeakgul.github.io/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -42,12 +42,12 @@
         <title>Photo</title>
         <link>https://yunusemreeakgul.github.io/en/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>yunusemreeakgul@outlook.com (yunus emre akgül)</author>
+        <author>yunusemreeakgul@outlook.com (Yunus Emre Akgül)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>https://yunusemreeakgul.github.io/en/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>yunus emre akgül</dc:creator>
+        <dc:creator>Yunus Emre Akgül</dc:creator>
         <media:content url="https://yunusemreeakgul.github.io/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         

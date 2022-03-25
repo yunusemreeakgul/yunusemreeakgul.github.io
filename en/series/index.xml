@@ -6,37 +6,18 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Series on Hugo Zzo Theme</title>
+    <title>Series on Yunus Emre Akgül</title>
     <link>https://yunusemreeakgul.github.io/en/series/</link>
-    <description>Recent content in Series on Hugo Zzo Theme</description>
+    <description>Recent content in Series on Yunus Emre Akgül</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>yunusemreeakgul@outlook.com (yunus emre akgül)</managingEditor>
-    <webMaster>yunusemreeakgul@outlook.com (yunus emre akgül)</webMaster>
+    <managingEditor>yunusemreeakgul@outlook.com (Yunus Emre Akgül)</managingEditor>
+    <webMaster>yunusemreeakgul@outlook.com (Yunus Emre Akgül)</webMaster>
     <copyright>©2022, Yunus Emre Akgül</copyright>
-    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://yunusemreeakgul.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
     
 
-      
-      <item>
-        <title>Themes Guide</title>
-        <link>https://yunusemreeakgul.github.io/en/series/themes-guide/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>yunusemreeakgul@outlook.com (yunus emre akgül)</author>
-        
-        <guid>https://yunusemreeakgul.github.io/en/series/themes-guide/</guid>
-        <description></description>
-        
-        <dc:creator>yunus emre akgül</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
       
 
     
